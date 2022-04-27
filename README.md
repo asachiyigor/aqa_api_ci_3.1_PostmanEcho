@@ -1,0 +1,1 @@
+# Postman Echo [![Build status](https://ci.appveyor.com/api/projects/status/86rm6fspicmfd2vm/branch/master?svg=true)](https://ci.appveyor.com/project/asachiyigor/aqa-api-ci-3-1-postmanecho/branch/master)
